@@ -26,7 +26,7 @@ Create another file named app.js in the same repository.
 
 
 
-ouput of the second prime odd and ven no is 
+q8--ouput of the second prime odd and even no and sum of all prime no is is 
 Prime no : [
   19, 23, 13, 31, 29,
    2, 11, 17,  5
